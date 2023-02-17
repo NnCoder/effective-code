@@ -20,6 +20,7 @@ import java.util.Optional;
  * 例:
  * @RedisLock("#user.userId")
  * void method(User user)
+ * 参考 https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#expressions
  */
 public class SpELKeyProvider {
 
